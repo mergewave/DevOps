@@ -1,5 +1,6 @@
 # DevOps
-A personal DevOps learning repository with notes on Docker, Ansible, CI/CD, Kubernetes, Monitoring, and more.
+Hi, I'm Mahdiye – a DevOps enthusiast documenting my learning journey.  
+This repository contains organized notes on various DevOps tools and practices.A personal DevOps learning repository with notes on Docker, Ansible, CI/CD, Kubernetes, Monitoring, and more.
 
 ## 📚 Topics Covered
 
