@@ -1,13 +1,3 @@
-
----
-sidebar_position: 1
-title: Docker Introduction
-description: An introduction to Docker, a platform designed to simplify the development, deployment, and management of applications in a containerized environment.
-tags: ["Docker", "Containerization", "DevOps"]
-keywords: ["Docker", "Containerization", "DevOps"]
-slug: "/docker"
----
-
 ### Overview of Docker
 
 Docker is an open-source platform designed to simplify the development, deployment, and management of applications in a containerized environment, also known as Docker containers. Docker containers are a lightweight and portable way to package and run applications, enabling developers to package their applications with all the required dependencies and configurations in a single package that can be easily moved between any environment. Docker containers are simply the running instance of a Docker image.
